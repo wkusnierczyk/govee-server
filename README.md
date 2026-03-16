@@ -1,3 +1,3 @@
-# govee-server
+# `govee-server`
 
-WIP: This project is currently in development and not ready for production use.
+**WIP**: This project is currently in development and not ready for production use.
