@@ -1,0 +1,11 @@
+[package]
+name = "govee-server"
+version = "0.0.0"
+edition = "2024"
+description = "REST server and web GUI for controlling Govee smart home devices"
+license = "Apache-2.0"
+repository = "https://github.com/wkusnierczyk/govee-server"
+keywords = ["govee", "smart-home", "rest", "iot"]
+categories = ["command-line-utilities", "web-programming::http-server"]
+
+[dependencies]
