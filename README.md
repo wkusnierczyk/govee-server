@@ -1,2 +1,3 @@
 # govee-server
-Govee API Server
+
+WIP: This project is currently in development and not ready for production use.
